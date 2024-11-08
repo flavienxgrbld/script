@@ -58,3 +58,6 @@ echo                       YAAWq         YAAAAAAAAAAAAAAAAAAAAAAAAAAC         wY
 echo                         zQAAIf      OAAAAAAAAAAAAAAAAAAAAAAAAAAAw     sLAAGu                        
 echo                             hQAAE1plNAAAAAAAAAAAAAAAAAAAAAAAAAAFq 9FAAIct                           
 echo                                xiYHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATix                               
+
+
+pause
