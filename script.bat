@@ -49,4 +49,3 @@ echo [!] SYSTEM ACCESS GRANTED.
 echo.
 echo [!] Your files are now encrypted.
 pause
-exit
